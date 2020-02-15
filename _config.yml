@@ -1,11 +1,11 @@
 # Site settings
 author: Mitzi Estrada
-title: 
+title: Mitzi's Blog
 header-img: img/home-bg.png
 email: m_estrada17@live.com
 copyright_name: Mitzi Estrada
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The journey of a software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mitzi17
